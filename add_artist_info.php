@@ -1,6 +1,4 @@
 <?php
-// Include necessary files
-require_once "error.php";
 require_once "functions.php";
 
 // Check if the request method is POST

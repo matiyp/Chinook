@@ -1,5 +1,4 @@
 <?php
-require 'error.php';
 require 'functions.php';
 
 //Choosing the artist

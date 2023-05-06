@@ -1,7 +1,5 @@
 <?php
-require "error.php";
 require "functions.php";
-
 
 $invoice_item_id = 1;
 

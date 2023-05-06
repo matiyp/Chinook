@@ -1,6 +1,4 @@
 <?php
-
-require 'error.php';
 require 'functions.php';
 
 // Set the artist ID

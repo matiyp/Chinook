@@ -1,6 +1,4 @@
 <?php
-
-require_once "error.php";
 require_once "functions.php";
 
 $artistId = 1;
